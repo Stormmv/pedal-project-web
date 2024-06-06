@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.open_sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #__next {
+  font-family: 'Open Sans', sans-serif;
+
+  height: 100%;
+}
